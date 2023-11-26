@@ -48,7 +48,8 @@
                 * Для протокола ZK-Snark это является необходимым условием, а для ZK-Stark такая фаза не требуется. Вместо этого ZK-Stark полагается на более простые криптографические предположения.
             
             + 1.2 Создание списка наиболее популярных инструментов (Circomspect, Picus, Ecne, Coda, Korrekt).  
-                * ZK Bug Tracker (https://github.com/0xPARC/zk-bug-tracker)
+                ZK Bug Tracker (https://github.com/0xPARC/zk-bug-tracker) - список существующих багов
+                
                 * Circomspect (https://github.com/trailofbits/circomspect) by TrailOfBits
                 * Picus (https://picus.xyz) by Veridise
                 * Ecne (https://github.com/franklynwang/EcneProject) by Franklyn Wang
