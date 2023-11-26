@@ -49,17 +49,14 @@
                 * ZK-Stark устраняет одну из основных слабостей ZK-Snark: его зависимость от доверенной настройки. 
                 * Для протокола ZK-Snark это является необходимым условием, а для ZK-Stark такая фаза не требуется. Вместо этого ZK-Stark полагается на более простые криптографические предположения.
             
-            +- 1.2 Создание списка наиболее популярных инструментов (Circomspect, Picus, Ecne, Coda, Korrekt).  
-                
-                * Circomspect (https://github.com/trailofbits/circomspect): 
-                
-                * Picus (https://picus.xyz): 
-                
-                * Ecne : 
-                
-                * Coda (https://codaplatform.com/web3-user-study/): 
-                                
-                * Korrekt: 
+            + 1.2 Создание списка наиболее популярных инструментов (Circomspect, Picus, Ecne, Coda, Korrekt).  
+                * ZK Bug Tracker (https://github.com/0xPARC/zk-bug-tracker)
+                * Circomspect (https://github.com/trailofbits/circomspect) by TrailOfBits
+                * Picus (https://picus.xyz) by Veridise
+                * Ecne (https://github.com/franklynwang/EcneProject) by Franklyn Wang
+                * Coda (https://codaplatform.com/web3-user-study/) by Veridise
+                * Korrekt (https://github.com/quantstamp/halo2-analyzer) by Quantstamp
+                * ZK-EVM Audit education sessions (https://www.notion.so/zkEVM-Audit-Education-Session-11-15-11-22-86d60daceadb438f85908817f7082611) by Scroll & Polygon
                 
         - Шаг 2: Предварительный сравнительный анализ  
         
