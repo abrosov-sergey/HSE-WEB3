@@ -64,11 +64,11 @@
             После чего внести вот в таблицу (https://docs.google.com/spreadsheets/d/1iuGHSn4KOSn92DxdyrqMQVmhRcWADfa2k_iXtY9jxjE/edit?usp=sharing) и сравнить
 
 ## Фаза 2: Детальное изучение и сравнение инструментов
-    +- Шаг 3: Анализ каждого инструмента
-        +- 3.1 Изучение документации каждого инструмента.
+    + Шаг 3: Анализ каждого инструмента
+        + 3.1 Изучение документации каждого инструмента.
             https://docs.google.com/spreadsheets/d/1iuGHSn4KOSn92DxdyrqMQVmhRcWADfa2k_iXtY9jxjE/edit?usp=sharing
             
-        +- 3.2 Запись основных функций и методологии проверки для каждого инструмента.
+        + 3.2 Запись основных функций и методологии проверки для каждого инструмента.
             https://docs.google.com/spreadsheets/d/1iuGHSn4KOSn92DxdyrqMQVmhRcWADfa2k_iXtY9jxjE/edit?usp=sharing    
                         
     +- Шаг 4: Подробное сравнение
