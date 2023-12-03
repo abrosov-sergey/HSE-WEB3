@@ -25,6 +25,8 @@
 * Гугл-диск - https://drive.google.com/drive/folders/1Vb0OXOvW9qtjLfUiDlPKaODl25KSjO60?usp=sharing
 * ZK Bug Tracker (https://github.com/0xPARC/zk-bug-tracker)
 * Полезное видео с разбором программы на Circom - https://www.youtube.com/watch?v=AWA107F2uDQ
+* Circom Pro - https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-circom-pro
+* Дока к Circom-у - https://docs.circom.io/getting-started/compiling-circuits/
 
 
 ## Фаза 1: Обзор рынка и предварительный анализ  
@@ -132,18 +134,18 @@
             Я буду работать в VS Code (Visual Studio Code)
 
     +- Шаг 7: Тестирование
-        +- 7.1 Запуск тестовых примеров из интернета.
+        + 7.1 Запуск тестовых примеров из интернета.
             Тестовые примеры с описанием всех проблем, которые способен найти Circomspect, можно посмотреть прямо у него в репозитории (https://github.com/trailofbits/circomspect/blob/main/doc/analysis_passes.md)
             
-            Разберем один из них (Side-effect free assignment):
+            Для проверки нужно прописать в консоли: 
+                circomspect <полный путь до нужной директории>
             
-            1) Открываем VS Code
-            
-            
-        - 7.2 Предложение собственных примеров использования.
+        + 7.2 Предложение собственных примеров использования.
+            Можно проверять уже существующие библиотеки :)
         
-        +- 7.3 Документирование результатов тестов.
+        + 7.3 Документирование результатов тестов.
         
+            Вставить скриншоты
             
         
 ## Фаза 4: Документация и автоматизация
