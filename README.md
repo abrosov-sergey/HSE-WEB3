@@ -24,6 +24,7 @@
 * Запись третьей лекции zk Bootcamp - https://www.youtube.com/watch?v=FSLy24uMGTs
 * Гугл-диск - https://drive.google.com/drive/folders/1Vb0OXOvW9qtjLfUiDlPKaODl25KSjO60?usp=sharing
 * ZK Bug Tracker (https://github.com/0xPARC/zk-bug-tracker)
+* Полезное видео с разбором программы на Circom - https://www.youtube.com/watch?v=AWA107F2uDQ
 
 
 ## Фаза 1: Обзор рынка и предварительный анализ  
