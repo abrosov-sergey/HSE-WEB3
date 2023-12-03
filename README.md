@@ -124,6 +124,8 @@
             8) Далее устанавливаем Сircom (этапы тут: https://docs.circom.io/getting-started/installation/#installing-circom)
             
             9) Внутри VS Code нужно установить расширение Circom Pro
+            
+            10) npm install --global yarn
         
         + 6.2 Подготовка среды для тестирования.
         

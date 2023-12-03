@@ -1,29 +1,16 @@
 pragma circom 2.0.0;
 
-template BinSum(n, ops) {
-      var nout = nbits((2 ** n - 1) * ops);
-      var lin = 0;
-      var lout = 0;
+include "node_modules/circomlib/circuits/comparators.circom";
 
-      signal input in[ops][n];
-      signal output out[nout];
+template Multiplier2 () {  
 
-      var e2 = 1;
-      for (var k = 0; k < n; k++) {
-          for (var j = 0; j < ops; j++) {
-              lin += in[j][k] * e2;
-          }
-          e2 = e2 + e2;
-      }
+   // Declaration of signals.  
+   signal input a;  
+   signal input b;  
+   signal output c;  
 
-      e2 = 1;
-      for (var k = 0; k < nout; k++) {
-          out[k] <-- (lin >> k) & 1;
-          out[k] * (out[k] - 1) === 0;
+   // Constraints.  
+   c <== a * b;  
+}
 
-          lout += out[k] * e2;  // The value assigned here is not used.
-          e2 = e2 + e2;
-      }
-
-      lin === nout;  // Should use `lout`, but uses `nout` by mistake.
-  }
+component main = Multiplier2();
